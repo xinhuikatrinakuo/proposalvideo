@@ -22,8 +22,61 @@ Click to start!
 **Title**: Ring by Spring (Snell Roundhand), `names` (Bondoni 72 Smallcaps)
 
 **Font Choice:**
-<br>
-Bigger Title: Apple Chancery, Big Caslon, Bondoni 72 Smallcaps, Brush Script MT, Savoye LET, Snell Roundhand, Zapfino
-<br>
-Subtitle: Baskerville (semibold or regular)
+- Bigger Title: Apple Chancery, Big Caslon, Bondoni 72 Smallcaps, Brush Script MT, Savoye LET, Snell Roundhand, Zapfino
+- Subtitle: Baskerville (semibold or regular)
+
+**Song choice:** Collide by Howie Day (designated by Matt)
+
+<h3>Timeline</h3>
+
+`00:00:00-00:10:00`
+- Title: Ring by Spring
+- 2 slow mo scenery
+
+`00:10:00-00:21:00`
+- No word
+- Slow mo scenery
+  - Matt
+  - Ring
+  - Flowers 
+
+`00:21:00-00:30:00`
+- “Preparation”
+- Slow mo scenery continue with preparation parts
+
+`00:30:00-00:40:00`
+- No word
+- Slow mo scenery continue with preparation parts
+
+`00:40:00-00:45:00`
+- Matt: “Hey Johanna, if you’re watching this, that means you said yes”
+- With perfect beat drop
+
+`00:45:00-00:55:00`
+- No word
+- Slow mo scenery continue with preparation parts
+
+`00:55:00-01:54:00`
+- Matt starts to say his words to Johanna
+- Subtitle on
+- Bgm cross-fade to instrumental and lower the volume
+- Last sentence “And now, for the part that we’ve all been waiting for.”
+
+→ connect to next scene: johanna arrives and proposal starts
+
+`01:54:00-02:42:00`
+- Actual surprise proposal, put on the ring
+- Still instrumental but higher volume
+
+→ cut at the perfect beat to transition to next scene
+
+`02:42:00-End`
+- Engaged couple
+  - Showing off the ring together
+  - Ring on the finger on top of the bouquet
+  - Couple scenes in the garden
+  - Transition scene: 1 person → 2 people after the proposal
+- Instrumental with the same volume
+
+Ending with Matt’s clap
 
