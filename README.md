@@ -1,4 +1,4 @@
-<h1>Surprised Proposal Video</h1>
+<h1>Surprise Proposal Video</h1>
 
 Click to start!
 
