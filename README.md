@@ -17,9 +17,10 @@ Click to start!
 
 <h2>Detail</h2>
 
-[Plan in Google Doc](https://docs.google.com/document/d/1xQHt1bz-L6RP8kofu8lYIs-G7SzhALYjD_J6DMZbrMQ/edit?usp=sharing)
+[Proposal Video Plan.pdf](https://github.com/user-attachments/files/22549213/Proposal.Video.Plan.pdf)
 
-**Title**: Ring by Spring (Snell Roundhand), `names` (Bondoni 72 Smallcaps)
+
+**Title**: Ring by Spring (Snell Roundhand), *names (Bondoni 72 Smallcaps)
 
 **Font Choice:**
 - Bigger Title: Apple Chancery, Big Caslon, Bondoni 72 Smallcaps, Brush Script MT, Savoye LET, Snell Roundhand, Zapfino
